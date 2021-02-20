@@ -10,6 +10,6 @@ User script for making polls with many answers easier
     - Opera: [Tampermonkey](https://addons.opera.com/extensions/details/tampermonkey-beta/) or [Violentmonkey](https://addons.opera.com/extensions/details/violent-monkey/)  
 
 1. Install this user script.  
-  **<a href="https://openuserjs.org/scripts/victornpb/" target="_blank">Install from OpenUserJS</a>
+  **<a href="https://openuserjs.org/scripts/victornpb/ManyAnswers_PollMaker" target="_blank">Install from OpenUserJS</a>
   or
   <a href="https://greasyfork.org/en/scripts/" target="_blank">Install from GreasyFork</a>**
