@@ -16,5 +16,5 @@ Create Polls with many answers easier by just pasting a text with one answer per
   or
   <a href="https://greasyfork.org/en/scripts/422028-manyanswers-pollmaker" target="_blank"><img src="install-from-grease-fork.png" alt="Install from GreasyFork"></a>**
   
-3. Go to https://www.poll-maker.com/ and create your Poll
+3. Go to [https://www.poll-maker.com](https://www.poll-maker.com/) and create your Poll!
 
