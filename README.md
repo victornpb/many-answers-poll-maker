@@ -11,10 +11,10 @@ Create Polls with many answers easier by just pasting a text with one answer per
     - Microsoft Edge: [Tampermonkey](https://www.microsoft.com/store/p/tampermonkey/9nblggh5162s)  
     - Opera: [Tampermonkey](https://addons.opera.com/extensions/details/tampermonkey-beta/) or [Violentmonkey](https://addons.opera.com/extensions/details/violent-monkey/)  
 
-2. Install this user script.  
-  **<a href="https://openuserjs.org/scripts/victornpb/ManyAnswers_PollMaker" target="_blank">Install from OpenUserJS</a>
+2. Install this user script from:  
+  **<a href="https://openuserjs.org/scripts/victornpb/ManyAnswers_PollMaker" target="_blank"> <img src="install-from-openuserjs-org.png" alt="Install from OpenUserJS"></a>
   or
-  <a href="https://greasyfork.org/en/scripts/422028-manyanswers-pollmaker" target="_blank">Install from GreasyFork</a>**
+  <a href="https://greasyfork.org/en/scripts/422028-manyanswers-pollmaker" target="_blank"><img src="install-from-grease-fork.png" alt="Install from GreasyFork"></a>**
   
 3. Go to https://www.poll-maker.com/ and create your Poll
 
