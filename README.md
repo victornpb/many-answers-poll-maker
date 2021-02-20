@@ -1,5 +1,7 @@
 # many-answers-poll-maker
-User script for making polls with many answers easier
+Create Polls with many answers easier by just pasting a text with one answer per line
+
+![Screenshot](https://user-images.githubusercontent.com/3372598/108581000-e1cc5a80-730c-11eb-958e-ef73c89efca2.gif)
 
 1. Install a **browser extension** for managing **user scripts** (skip if you already have one):
     
