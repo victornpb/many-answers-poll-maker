@@ -13,3 +13,4 @@ User script for making polls with many answers easier
   **<a href="https://openuserjs.org/scripts/victornpb/ManyAnswers_PollMaker" target="_blank">Install from OpenUserJS</a>
   or
   <a href="https://greasyfork.org/en/scripts/422028-manyanswers-pollmaker" target="_blank">Install from GreasyFork</a>**
+
